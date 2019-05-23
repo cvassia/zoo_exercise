@@ -1,5 +1,6 @@
 ///Zoo Animal menagerie
-// You are a group of people who want to go to the zoo. One student, one child, uncle unemployed. The prices are: for student 10.30 euros, for children 5.10 euros, unemployed with berlin pass 3.55 euros. Find out and log it, using the math object who pays the most, and round it up.
-// Now that you are in the zoo, find out and log it, using the date object, if it's day or night. Using an if else statement and the result of the day object, determine if its day or night. From 8h to 20h is day, otherwise it's night. Save this result on a variable.
-// Using this variable within a switch statement, put the animals in the correct array element location: ["pettingZoo", "sleepingHouse","escaped"].
-//If it's day put the animals in the petting zoo, if it's night put the animals in the sleeping house, if it's neither of those they 've escaped.
+// You are a group of people who want to go to the zoo. One student, one child, and an unemployed uncle. The prices are: for the student 10.30 Euro, for children 5.10 Euro, the unemployed with a Berliner pass 3.55 Euro. Using the Math object determine who pays the most, and round it up. Log your result.
+// Now that you've paid and entered the zoo, use the Date object to determine whether it is day or night. Use an if else statement. From 8h to 20h it's day, otherwise it's night. Save this result in a variable.
+Create an array with the following elements:- 'petting zoo', 'sleeping house', 'escaped'
+// Using this variable within a switch statement, put the animals in the correct array element location:
+//If it's day put the animals in the petting zoo, if it's night put the animals in the sleeping house, if it's neither of those they've escaped.
