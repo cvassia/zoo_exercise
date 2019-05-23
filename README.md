@@ -3,4 +3,4 @@
 // Now that you've paid and entered the zoo, use the Date object to determine whether it is day or night. Use an if else statement. From 8h to 20h it's day, otherwise it's night. Save this result in a variable.
 Create an array with the following elements:- 'petting zoo', 'sleeping house', 'escaped'
 // Using this variable within a switch statement, put the animals in the correct array element location:
-//If it's day put the animals in the petting zoo, if it's night put the animals in the sleeping house, if it's neither of those they've escaped.
+//If it's day put the animals in the petting zoo, if it's night put the animals in the sleeping house, if it's neither of those they've escaped. Log the output.
